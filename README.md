@@ -28,8 +28,6 @@ Enthusiasm and motivation 💪!
 
 ---
 
-🌐 **Retrouvez-moi sur :**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/fayssal-ben-hammou-835125115/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
