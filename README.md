@@ -29,7 +29,8 @@ Enthusiasm and motivation 💪!
 ---
 
 🌐 **Retrouvez-moi sur :**
-- LinkedIn : [https://www.linkedin.com/in/fayssal-ben-hammou-835125115/](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayssal-ben-hammou-835125115/)
+- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://patassel.github.io/OfficialPortfolio.github.io/)
 
 
 
