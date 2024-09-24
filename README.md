@@ -1,4 +1,38 @@
-## Hi there 👋
+# 👨‍💻 **Fayssal Ben Hammou** 💼
+
+Welcome to my page! I am a **passionate** and **creative** developer specializing in mobile development with **Flutter** 🚀. Since I started in the development world, I have gained solid experience in creating innovative and high-performance applications, with a constant focus on quality and optimization.
+
+## 🌟 **Technical Skills in Mobile Development**
+
+- **Flutter** 💙: Expert in this framework since its inception in 2017
+- **Swift & Kotlin** 🍎🤖: Native development for iOS and Android
+- **Node.js** 🟢: High-performance and scalable back-end
+- **Docker** 🐳: Containerization and application deployment
+- **CI/CD** 🔄: Automation of development processes
+- **REST & GraphQL APIs** 🌐: Integration and development of web services
+- **Cloud** ☁️: Management of cloud services (AWS, Firebase)
+
+## 💡 **My Values & Methodology**
+
+- **Innovation and Creativity** 🎨: I love exploring new technological solutions to push boundaries.
+- **Autonomy and Responsibility** 🧑‍🏫: I can lead projects from start to finish independently while being proactive.
+- **Team Spirit** 🤝: Collaborating, exchanging, and sharing skills is how I envision successful work.
+
+## 🚀 **Ongoing Projects**
+
+At the moment, I am working on ambitious **personal projects** that will soon see the light of day 👀.
+
+## 🔥 **Always Seeking New Challenges**
+
+Enthusiasm and motivation 💪!
+
+---
+
+🌐 **Retrouvez-moi sur :**
+- LinkedIn : [https://www.linkedin.com/in/fayssal-ben-hammou-835125115/](#)
+
+
+
 
 <!--
 **patassel/patassel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
