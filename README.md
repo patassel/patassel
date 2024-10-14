@@ -4,13 +4,13 @@ Welcome to my page! I am a **passionate** and **creative** developer specializin
 
 ## 🌟 **Technical Skills in Mobile Development**
 
-- **Flutter** 💙: Expert in this framework since its inception in 2017
+- **Flutter** 💙x100000: Expert in this framework since its inception in 2017
 - **Swift & Kotlin** 🍎🤖: Native development for iOS and Android
 - **Node.js** 🟢: High-performance and scalable back-end
 - **Docker** 🐳: Containerization and application deployment
 - **CI/CD** 🔄: Automation of development processes
 - **REST & GraphQL APIs** 🌐: Integration and development of web services
-- **Cloud** ☁️: Management of cloud services (AWS, Firebase)
+- **Cloud** ☁️: Management of cloud services (Google Cloud, AWS, Firebase)
 
 ## 💡 **My Values & Methodology**
 
