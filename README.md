@@ -84,9 +84,8 @@ Enthusiasm and motivation 💪!
 <p align="center">
   <a href="https://www.linkedin.com/in/fayssal-ben-hammou-835125115/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://patassel.github.io/OfficialPortfolio.github.io/">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 espaces -->
+  <a href="https://patassel.github.io/portfolio_web/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
