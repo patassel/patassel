@@ -7,7 +7,6 @@ Welcome to my page! I am a **passionate** and **creative** developer specializin
 - **Flutter** 💙: Expert in this framework since its inception in 2017.
 - **Android Development (Java & Kotlin)** 🍎🤖: Native app development for Android devices.
 - **iOS Development (Swift)** 🍏: Native app development for iOS devices.
-- **React Native** 📱: Framework for building mobile applications using React.
 - **Dart** 🐦: Programming language used with Flutter for building high-performance mobile apps.
 - **Android Studio** 📱: Official IDE for Android development, featuring a robust emulator and performance tools.
 
@@ -35,7 +34,6 @@ Welcome to my page! I am a **passionate** and **creative** developer specializin
 
 ## 🌟 **Database Management** 🌟
 
-- **MongoDB** 🐬: NoSQL database for scalable applications.
 - **PostgreSQL** 🐘: Open-source relational database management system.
 - **Firebase** 🔥: Application development platform with real-time database capabilities.
 - **MSSQL** 📦: Microsoft SQL Server is a database management system based on the SQL language and incorporating an RDBMS developed and marketed by Microsoft.
